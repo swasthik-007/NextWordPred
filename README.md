@@ -34,6 +34,6 @@ A minimal, elegant NLP web app that predicts the next word in a given sentence u
 ## 📦 Installation
 
 ```bash
-git clone https://github.com/yourusername/next-word-lstm.git
+git clone https://github.com/swasthik-007/NextWordPred.git
 cd next-word-lstm
 pip install -r requirements.txt
